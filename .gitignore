@@ -44,19 +44,6 @@ docker-compose.*.local.yml
 *.key
 *.crt
 
-
-test.jpg
-downloaded.jpg
-stored.jpg
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.webp
-!docs/**/*.png
-!docs/**/*.jpg
-
-
 *.log
 *.tmp
 *.swp
