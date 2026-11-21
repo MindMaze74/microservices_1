@@ -134,19 +134,19 @@ security/server.py. Дописал POST /v1/user для регистрации �
 
 После всех правок docker-compose up поднимает всё без ошибок, а команды из раздела «Ожидаемый результат» выполняются успешно.
 
-![скриншот 1](https://github.com/MindMaze74/microservices_1/blob/main/img/img1.png)
+![скриншот 1](https://github.com/MindMaze74/microservices_1/blob/main/img/1.png)
 
-![скриншот 2](https://github.com/MindMaze74/microservices_1/blob/main/img/img2.png)
+![скриншот 2](https://github.com/MindMaze74/microservices_1/blob/main/img/2.png)
 
-![скриншот 3](https://github.com/MindMaze74/microservices_1/blob/main/img/img3.png)
+![скриншот 3](https://github.com/MindMaze74/microservices_1/blob/main/img/3.png)
 
-![скриншот 4](https://github.com/MindMaze74/microservices_1/blob/main/img/img4.png)
+![скриншот 4](https://github.com/MindMaze74/microservices_1/blob/main/img/4.png)
 
-![скриншот 5](https://github.com/MindMaze74/microservices_1/blob/main/img/img5.png)
+![скриншот 5](https://github.com/MindMaze74/microservices_1/blob/main/img/5.png)
 
-![скриншот 6](https://github.com/MindMaze74/microservices_1/blob/main/img/img6.png)
+![скриншот 6](https://github.com/MindMaze74/microservices_1/blob/main/img/6.png)
 
-![скриншот 7](https://github.com/MindMaze74/microservices_1/blob/main/img/img7.png)
+![скриншот 7](https://github.com/MindMaze74/microservices_1/blob/main/img/7.png)
 
  
 Листинг команд
